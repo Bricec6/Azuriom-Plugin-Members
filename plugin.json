@@ -1,0 +1,15 @@
+{
+    "id": "members_sources",
+    "name": "Members",
+    "description": "Plugin for Azuriom",
+    "version": "1.0.0",
+    "url": "https://discord.gg/Gh2yBxUWvV",
+    "authors": [
+        "Bricec6#6204"
+    ],
+    "azuriom_api": "1.0.0",
+    "providers": [
+        "\\Azuriom\\Plugin\\Members\\Providers\\MembersServiceProvider",
+        "\\Azuriom\\Plugin\\Members\\Providers\\RouteServiceProvider"
+    ]
+}
