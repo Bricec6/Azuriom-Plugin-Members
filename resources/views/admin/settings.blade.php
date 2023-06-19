@@ -10,6 +10,9 @@
         <div>
             <button type="button" class="btn btn-success fw-bold rounded-4 text-uppercase px-3" data-bs-toggle="modal" data-bs-target="#donationModal"><i class="bi bi-heart-fill me-1"></i>{{trans('members::admin.config.don')}}</button>
         </div>
+        <div>
+            <a href="https://www.serveurliste.com" target="_blank" class="btn btn-warning fw-bold rounded-4 text-uppercase px-3"><i class="bi bi-search me-1"></i>LISTEZ VOS SERVEURS SUR SERVEURLISTE.COM</a>
+        </div>
         <hr>
     </div>
     <div class="card shadow mb-4">
